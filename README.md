@@ -10,8 +10,6 @@
 
 https://user-images.githubusercontent.com/54963637/204334380-c6b8d249-addf-4c7d-9659-7425829a3d84.mp4
   
-(https://github.com/BadLog1n/zachet/blob/main/demonstrationFiles/screenrecorder.mp4)
-
 ## Макет приложения (на 01.08.2022):  
 ![image](https://github.com/BadLog1n/zachet/blob/main/demonstrationFiles/1.jpg)  
 ![image](https://github.com/BadLog1n/zachet/blob/main/demonstrationFiles/2.jpg)  
@@ -19,11 +17,12 @@ https://user-images.githubusercontent.com/54963637/204334380-c6b8d249-addf-4c7d-
 ## Наши контакты:  
 > vk: **@captianfrog @sokhinasofia**  
 > telegram: **@captianfrog @sssofi01**  
-> [Ссылка на канал приложения в телеграме](https://t.me/+R5UnUTwVUEI1MjVi)
+> [Ссылка на канал приложения в телеграме](https://t.me/+R5UnUTwVUEI1MjVi)  
+> [Ссылка на приложение в RuStore](https://apps.rustore.ru/app/com.oneseed.zachet) 
 
 ## Файлы с презентацией и статистикой:  
-[Статистика](https://github.com/BadLog1n/zachet/files/10221536/default.xlsx)  
-[Итоговая презентация](https://github.com/BadLog1n/zachet/files/10221537/pdf.pdf)  
+> [Статистика](https://github.com/BadLog1n/zachet/files/10221536/default.xlsx)  
+> [Итоговая презентация](https://github.com/BadLog1n/zachet/files/10221537/pdf.pdf) 
 
 Будем рады всем, кто заинтересовался проектом и хочет дать обратную связь.  
 
