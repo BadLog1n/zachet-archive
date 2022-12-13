@@ -11,8 +11,8 @@
 https://user-images.githubusercontent.com/54963637/204334380-c6b8d249-addf-4c7d-9659-7425829a3d84.mp4
   
 ## Макет приложения (на 01.08.2022):  
-![image](https://github.com/BadLog1n/zachet/blob/main/demonstrationFiles/1.jpg)  
-![image](https://github.com/BadLog1n/zachet/blob/main/demonstrationFiles/2.jpg)  
+![1](https://user-images.githubusercontent.com/54963637/207435512-bdc2755e-b7ab-4989-8a43-d2485dfcd3c2.png)  
+![2](https://user-images.githubusercontent.com/54963637/207435519-446ad3a3-a800-446d-aceb-87d92117911a.png)  
 
 ## Наши контакты:  
 > vk: **@captianfrog @sokhinasofia**  
