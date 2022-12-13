@@ -21,6 +21,9 @@ https://user-images.githubusercontent.com/54963637/204334380-c6b8d249-addf-4c7d-
 > telegram: **@captianfrog @sssofi01**  
 > [Ссылка на канал приложения в телеграме](https://t.me/+R5UnUTwVUEI1MjVi)
 
+## Файлы с презентацией и статистикой:  
+[Статистика](https://github.com/BadLog1n/zachet/files/10221536/default.xlsx)  
+[Итоговая презентация](https://github.com/BadLog1n/zachet/files/10221537/pdf.pdf)  
 
 Будем рады всем, кто заинтересовался проектом и хочет дать обратную связь.  
 
