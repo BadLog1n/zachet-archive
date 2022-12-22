@@ -15,8 +15,8 @@ https://user-images.githubusercontent.com/54963637/204334380-c6b8d249-addf-4c7d-
 ![2](https://user-images.githubusercontent.com/54963637/207435519-446ad3a3-a800-446d-aceb-87d92117911a.png)  
 
 ## Наши контакты:  
-> vk: **@captianfrog @sokhinasofia**  
-> telegram: **@captianfrog @sssofi01**  
+> vk: **@capfrog @sokhinasofia**  
+> telegram: **@capfrog @sssofi01**  
 > [Ссылка на канал приложения в телеграме](https://t.me/zacheet)  
 > [Ссылка на приложение в RuStore](https://apps.rustore.ru/app/com.oneseed.zachet) 
 
