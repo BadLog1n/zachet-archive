@@ -21,9 +21,9 @@ https://user-images.githubusercontent.com/54963637/209171696-0e84e28c-206c-4d67-
 > [Ссылка на приложение в RuStore](https://apps.rustore.ru/app/com.oneseed.zachet) 
 
 ## Файлы с презентацией и статистикой:  
-> [Статистика](https://github.com/BadLog1n/zachet/files/10221536/default.xlsx)  
-> [Итоговая презентация](https://github.com/BadLog1n/zachet/files/10221537/pdf.pdf) 
-
+> [Статистика](https://github.com/BadLog1n/zachet/files/10221536/default.xlsx) 
+> [Итоговая презентация](https://github.com/BadLog1n/zachet/files/10300406/default.pdf)
+ 
 Будем рады всем, кто заинтересовался проектом и хочет дать обратную связь.  
 
 ## Важно: 
